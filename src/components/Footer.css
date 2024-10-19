@@ -1,0 +1,28 @@
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.socials a {
+  color: #fff;
+  margin: 0 10px;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+.contact-info p {
+  margin: 5px 0;
+}
+
+.socials a:hover, .contact-info p {
+  color: #ff7b54;
+}

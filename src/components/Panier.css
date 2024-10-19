@@ -1,0 +1,27 @@
+.panier {
+  padding: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+}
+
+button {
+  margin-right: 5px;
+  padding: 5px 10px;
+  background-color: #0bb93c;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #7ef09b;
+}

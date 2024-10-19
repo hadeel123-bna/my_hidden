@@ -1,0 +1,15 @@
+.receipt {
+    padding: 20px;
+    background-color: #f8f9fa; /* Light background */
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .receipt h2 {
+    color: #333;
+  }
+  
+  .receipt p, .receipt ul {
+    color: #555;
+  }
+  
